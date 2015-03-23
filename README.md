@@ -2,7 +2,8 @@
 Extended version of the standard MFC CToolbar
 
 - Uses native windows theme
-- Embed windows controls like ComboBox
+- Embed CWnd windows controls like ComboBox
+- Show and hide toolbar bands
 - Toolbar customization dialog
 - Save and restore toolbar layout
 
