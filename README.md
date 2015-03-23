@@ -11,4 +11,5 @@ Extended version of the standard MFC CToolbar
 Missing features:
 
 - Vertical docking
+- Floating toolbar
 - Chevron dropdown
